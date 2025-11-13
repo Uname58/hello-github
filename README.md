@@ -13,8 +13,11 @@ a learning log of programming
 - **迷你项目**：实践所学知识的小型项目
 - **资源收集**：优质教程、文章和工具的整理
 
+
 ## 🗂️ 仓库结构
-hello-github-.--pythom_PROJECT-.--IP_convert
-             |
-             .readme.md
+hello-github/
+├── python/               # python专项
+| ├──IP_convert
+|
+└── README.md             # 本文件
              
