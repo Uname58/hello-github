@@ -1,0 +1,5 @@
+#how to convert binary to decimal in python
+ans: using [int(<value>, <base> )]
+      *E.g. : int("101", 2); output=5
+
+#
